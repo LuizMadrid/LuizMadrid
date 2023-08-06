@@ -1,26 +1,15 @@
-<!-- ########## CABEÇARIO ########## -->
+<!-- ↓↓ ########## CABEÇARIO ########## ↓↓ -->
 <h1 align="center">Bem-vindo(a), sou</h1>
 
-<div 
-   style="
-      display: flex; 
-      justify-content: center; 
-      margin-left: -130px;
-   ">
-   <img width="400" src="images/LUIZ MADRID LOGO NOVO (letra branca).png" /> 
-   <h3 
-      style="
-         margin: 41px 0px 0px -65px; 
-         font-size: 23px;
-      "> 
-   Desenvolvedor <br /> Front-End 
-   </h3>
-</div>
 <div align="center">
+   <img width="400" src="images/LUIZ MADRID LOGO NOVO (letra branca).png" />
+   
    <span> | JavaScript | ReactJS | Tailwind | </span>
 </div>
 
-<br />
+<h5 align="center">
+   <i>[ It's all about your serenity. ]</i>
+</h5>
 
 <!-- ↓↓ Links de Contato ↓↓ -->
 <p align='center'>
@@ -38,12 +27,8 @@
    </a>
 </p>
 <!-- ↑↑ Links de Contato ↑↑ -->
- 
-<h5 align="center">
-   <i>[ It's all about your serenity. ]</i>
-</h5>
 
-<!-- ########## CABEÇARIO ########## -->
+<!-- ↑↑ ########## CABEÇARIO ########## ↑↑ -->
 
 <br />
 
