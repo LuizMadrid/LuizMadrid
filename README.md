@@ -4,7 +4,7 @@
 <div align="center">
    <img width="400" src="images/LUIZ MADRID LOGO NOVO (letra branca).png" />
    <br />
-   <span> | JavaScript | ReactJS | Tailwind | </span>
+   <h4> | JavaScript | ReactJS | Tailwind | </h4>
 </div>
 
 <h5 align="center">
