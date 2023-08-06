@@ -58,7 +58,13 @@
 
 <div style="display: inline-block; justify-content: center;">
    <img height="60" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
-   <span>Intermediario</span>
+   <span 
+      style="
+         border: 1px solid #f11; 
+         padding: 5px
+      ">
+      Intermediario
+   </span>
 </div>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 
@@ -82,7 +88,4 @@
 **<h2>Minhas estatísticas</h2>**
 
 <p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=EndersonF&&show_icons=true&theme=radical" alt="EndersonF"/>
-  </a>
 </p>
