@@ -3,11 +3,11 @@
 
 <div align="center">
    <div 
-   style="
-      display: flex; 
-      justify-content: center; 
-      margin-left: -130px;
-   ">
+      style="
+         display: flex; 
+         justify-content: center; 
+         margin-left: -130px;
+      ">
       <img width="400" src="images/LUIZ MADRID LOGO NOVO (letra branca).png" /> 
       <h3 
          style="
