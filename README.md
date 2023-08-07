@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=LuizMadrid.LuizMadrid" />
 <!-- ↓↓ ########## CABEÇARIO ########## ↓↓ -->
 
 **<h1 align="center">Bem-vindo(a), sou</h1>**
@@ -43,11 +44,6 @@
 
 → Me dedico tanto em codar e solidificar minhas Hard Skills, como também tenho um certo costume e gosto de estudar hardware de computadores em geral, gosto de manter atualizado no mercado de computadores e afins.
 
-**<h2> Informações Complementares </h2>**
-
-- **Idade**: 22;
-- **Natural de**: Araçatuba - SP, Brasil;
-
 **<h2> Conhecimento:</h2>**
 
 **<h3>Avançado</h3>**
@@ -80,5 +76,9 @@
 
 **<h2>Minhas estatísticas</h2>**
 
-<p align="center" >
-</p>
+<div align=center>
+  <img width=415 src="https://streak-stats.demolab.com/?user=LuizMadrid&count_private=true&theme=codeSTACKr&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=LuizMadrid&show_icons=true&theme=codeSTACKr&rank_icon&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMadrid&hide=HTML&langs_count=8&layout=compact&theme=codeSTACKr&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
