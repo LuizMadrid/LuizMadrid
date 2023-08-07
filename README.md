@@ -58,16 +58,19 @@
    src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
 
 **<h3>Intermediário</h3>**
+
 <img height="60" title="JavaScript" 
    src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
 <img height="60" title="Styled Components" 
    src="https://upload.vectorlogo.zone/logos/styled-components/images/5f59240a-d7b6-4314-bba8-0e799745b69c.svg">
 
 **<h3>Iniciante</h3>**
+
 <img height="60" title="Node.JS" 
    src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
 
 **<h3>Estudando</h3>**
+
 <img height="60" title="React" 
    src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
 <img height="60" title="TailWind" 
