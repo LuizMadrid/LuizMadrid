@@ -1,34 +1,37 @@
 <!-- ↓↓ ########## CABEÇARIO ########## ↓↓ -->
-<h1 align="center">Bem-vindo(a), sou</h1>
+
+**<h1 align="center">Bem-vindo(a), sou</h1>**
 
 <div align="center">
    <img width="400" src="images/LUIZ MADRID LOGO NOVO (letra branca).png" />
    <br />
-   <h4> | JavaScript | ReactJS | Tailwind | </h4>
+   <h3> | JavaScript | ReactJS | Tailwind | </h3>
 </div>
 
-<h5 align="center">
+<h4 align="center">
    <i>[ It's all about your serenity. ]</i>
-</h5>
+</h4>
 
 <!-- ↓↓ Links de Contato ↓↓ -->
 <p align='center'>
-   <a href="https://www.linkedin.com/in/luiz-madrid/">
+   <a href="https://www.linkedin.com/in/luiz-madrid/"  target="_blank">
       <img height="30" alt="LinkedIn" title="LinkedIn" 
-      src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" target="_blank">
+      src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg">
    </a>
-   <a href="https://github.com/LuizMadrid">
+   <a href="https://github.com/LuizMadrid"  target="_blank">
       <img height="30" alt="GitHub" title="GitHub" 
-      src="https://www.vectorlogo.zone/logos/github/github-tile.svg" target="_blank" >
+      src="https://www.vectorlogo.zone/logos/github/github-tile.svg" >
    </a>
-   <a href="https://www.instagram.com/luixz.madrid/">
+   <a href="https://www.instagram.com/luixz.madrid/"  target="_blank">
       <img height="30" alt="Instagram" title="Instagram" 
-      src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" target="_blank" >
+      src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" >
    </a>
 </p>
 <!-- ↑↑ Links de Contato ↑↑ -->
 
 <!-- ↑↑ ########## CABEÇARIO ########## ↑↑ -->
+
+<!-- ===========XXX=========== -->
 
 <br />
 
@@ -45,36 +48,32 @@
 - **Idade**: 22;
 - **Natural de**: Araçatuba - SP, Brasil;
 
-**<h2> Linguagens:</h2>**
+**<h2> Conhecimento:</h2>**
 
-<div style="display: inline-block; justify-content: center;">
-   <img height="60" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
-   <span 
-      style="
-         border: 1px solid #f11; 
-         padding: 5px
-      ">
-      Intermediario
-   </span>
-</div>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+**<h3>Avançado</h3>**
 
-**<h2>Frameworks:</h2>**
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="60" src='https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg'></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<img height="60" title="HTML5" 
+   src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
+<img height="60" title="CSS3" 
+   src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
 
-**<h2>Banco de dados:</h2>**
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code>
+**<h3>Intermediário</h3>**
+<img height="60" title="JavaScript" 
+   src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
+<img height="60" title="Styled Components" 
+   src="https://upload.vectorlogo.zone/logos/styled-components/images/5f59240a-d7b6-4314-bba8-0e799745b69c.svg">
 
-**<h2>Outros:</h2>**  
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+**<h3>Iniciante</h3>**
+<img height="60" title="Node.JS" 
+   src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+
+**<h3>Estudando</h3>**
+<img height="60" title="React" 
+   src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
+<img height="60" title="TailWind" 
+   src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+<img height="60" title="Sass" 
+   src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg">
 
 **<h2>Minhas estatísticas</h2>**
 
