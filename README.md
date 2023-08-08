@@ -15,17 +15,17 @@
 
 <!-- ↓↓ Links de Contato ↓↓ -->
 <p align='center'>
-   <a href="https://www.linkedin.com/in/luiz-madrid/"  target="_blank">
-      <img height="30" alt="LinkedIn" title="LinkedIn" 
+   <a href="https://www.linkedin.com/in/luiz-madrid/" target="_blank">
+      <img height="30" alt="LinkedIn" title="LinkedIn"
       src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg">
    </a>
-   <a href="https://github.com/LuizMadrid"  target="_blank">
-      <img height="30" alt="GitHub" title="GitHub" 
-      src="https://www.vectorlogo.zone/logos/github/github-tile.svg" >
+   <a href="https://github.com/LuizMadrid" target="_blank">
+      <img height="30" alt="GitHub" title="GitHub"
+      src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
    </a>
-   <a href="https://www.instagram.com/luixz.madrid/"  target="_blank">
-      <img height="30" alt="Instagram" title="Instagram" 
-      src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" >
+   <a href="https://www.instagram.com/luixz.madrid/" target="_blank">
+      <img height="30" alt="Instagram" title="Instagram"
+      src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg">
    </a>
 </p>
 <!-- ↑↑ Links de Contato ↑↑ -->
