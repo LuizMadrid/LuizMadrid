@@ -44,6 +44,15 @@
 
 → Me dedico tanto em codar e solidificar minhas Hard Skills, como também tenho um certo costume e gosto de estudar hardware de computadores em geral, gosto de manter atualizado no mercado de computadores e afins.
 
+**<h2>Minhas estatísticas</h2>**
+
+<div align=center>
+  <img width=410 src="https://streak-stats.demolab.com/?user=LuizMadrid&count_private=true&theme=codeSTACKr&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=LuizMadrid&show_icons=true&theme=codeSTACKr&rank_icon&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMadrid&hide=HTML&langs_count=8&layout=compact&theme=codeSTACKr&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
 **<h2> Conhecimento:</h2>**
 
 **<h3>Avançado</h3>**
@@ -73,12 +82,3 @@
    src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
 <img height="40" title="Sass" 
    src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg">
-
-**<h2>Minhas estatísticas</h2>**
-
-<div align=center>
-  <img width=415 src="https://streak-stats.demolab.com/?user=LuizMadrid&count_private=true&theme=codeSTACKr&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=LuizMadrid&show_icons=true&theme=codeSTACKr&rank_icon&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMadrid&hide=HTML&langs_count=8&layout=compact&theme=codeSTACKr&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
