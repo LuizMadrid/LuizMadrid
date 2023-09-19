@@ -4,7 +4,7 @@
 **<h1 align="center">Bem-vindo(a), sou</h1>**
 
 <div align="center">
-   <img width="600" src="images/LUIZ MADRID LOGO NOVO (letra branca).png" />
+   <img width="600" src="images/LUIZ MADRID LOGO NOVO (letra branca) 2.png" />
    <br />
    <h3> | JavaScript | ReactJS | Tailwind | </h3>
 </div>
