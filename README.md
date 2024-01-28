@@ -94,18 +94,32 @@
 
 <img 
    height="40" 
-   title="React" 
+   title="ReactJS" 
    src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
 <img 
    height="40" 
-   title="Tailwind" 
-   src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+   title="NextJS" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+<img 
+   height="40" 
+   title="TypeScript" 
+   src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+
+**<h3>Pretendo Estudar:</h3>**
+
 <img 
    height="40" 
    title="Node.JS" 
    src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
 <img 
    height="40" 
-   title="Node.JS" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-
+   title="PostgreeSQL" 
+   src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
+<img 
+   height="40" 
+   title="MongoDB" 
+   src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
+<img 
+   height="40" 
+   title="Ruby" 
+   src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg">
