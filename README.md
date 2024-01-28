@@ -6,7 +6,7 @@
 <div align="center">
    <img width="600" src="images/LUIZ MADRID LOGO NOVO (letra branca) 2.png" />
    <br />
-   <h3> | JavaScript | ReactJS | Tailwind | </h3>
+   <h3> | NextJS | ReactJS | Tailwind | </h3>
 </div>
 
 <h4 align="center">
@@ -46,7 +46,7 @@
 
 **<h2>Minhas estatísticas</h2>**
 
-<div align=center>
+<div align=center >
   <img width=410 src="https://streak-stats.demolab.com/?user=LuizMadrid&count_private=true&theme=apprentice&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=LuizMadrid&show_icons=true&theme=apprentice&rank_icon&border_radius=10" alt="readme stats" />
   <br/>
@@ -55,30 +55,57 @@
 
 **<h2> Conhecimento:</h2>**
 
-**<h3>Avançado</h3>**
+**<h3>Tenho Experiência:</h3>**
 
-<img height="40" title="HTML5" 
+<img 
+   height="40" 
+   title="HTML5" 
    src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
-<img height="40" title="CSS3" 
+<img 
+   height="40" 
+   title="CSS3" 
    src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
-
-**<h3>Intermediário</h3>**
-
-<img height="40" title="JavaScript" 
+<img 
+   height="40" 
+   title="React" 
+   src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
+<img 
+   height="40" 
+   title="Tailwind" 
+   src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+<img 
+   height="40" 
+   title="Node.JS" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+<img 
+   height="40" 
+   title="Sass" 
+   src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg">
+<img 
+   height="40" 
+   title="JavaScript" 
    src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
-<img height="40" title="Styled Components" 
+<img 
+   height="40" 
+   title="Styled Components" 
    src="https://upload.vectorlogo.zone/logos/styled-components/images/5f59240a-d7b6-4314-bba8-0e799745b69c.svg">
 
-**<h3>Iniciante</h3>**
+**<h3>Estudando no Momento:</h3>**
 
-<img height="40" title="Node.JS" 
-   src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
-
-**<h3>Estudando</h3>**
-
-<img height="40" title="React" 
+<img 
+   height="40" 
+   title="React" 
    src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
-<img height="40" title="TailWind" 
+<img 
+   height="40" 
+   title="Tailwind" 
    src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
-<img height="40" title="Sass" 
-   src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg">
+<img 
+   height="40" 
+   title="Node.JS" 
+   src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+<img 
+   height="40" 
+   title="Node.JS" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+
