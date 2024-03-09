@@ -75,7 +75,11 @@
    src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
 <img 
    height="40" 
-   title="Node.JS" 
+   title="TypeScript" 
+   src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+<img 
+   height="40" 
+   title="Next.JS" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
 <img 
    height="40" 
@@ -104,6 +108,10 @@
    height="40" 
    title="TypeScript" 
    src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+<img 
+   height="40" 
+   title="Java" 
+   src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
 
 **<h3>Pretendo Estudar:</h3>**
 
